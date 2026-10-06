@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"12debe3cb2b306be","x":-360,"y":-200,"width":250,"height":60,"color":"#0400ff","type":"text","text":"Por hacer"},
+		{"id":"cb1287e67c013349","x":-60,"y":-200,"width":250,"height":60,"color":"6","type":"text","text":"Haciendo"},
+		{"id":"863ed019d1cef2e1","x":240,"y":-200,"width":250,"height":60,"color":"3","type":"text","text":"Para probar"},
+		{"id":"c3287b2c5156de0e","x":540,"y":-200,"width":250,"height":60,"color":"4","type":"text","text":"Aprobado"}
+	],
+	"edges":[]
+}
