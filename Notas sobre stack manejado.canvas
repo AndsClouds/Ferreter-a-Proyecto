@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"7c2431af455840d9","x":-260,"y":-220,"width":360,"height":140,"type":"text","text":"#frontend\nStitch\nFlutter o React Native o Vue\nLibrería de pdfs"},
+		{"id":"8755fdae5cacd878","x":180,"y":-220,"width":300,"height":120,"type":"text","text":"#backend\nFastAPI\n"},
+		{"id":"725ba925e556a860","x":-180,"y":0,"width":250,"height":180,"type":"text","text":"#base_de_datos\nSQLAlchemy\nMySQL\nSQLite "},
+		{"id":"4831266c4d0bc5c3","x":80,"y":30,"width":250,"height":210,"type":"text","text":"#testing\nBackend -> Hypothesis"}
+	],
+	"edges":[]
+}

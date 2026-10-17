@@ -1,14 +1,14 @@
 {
 	"nodes":[
-		{"id":"074eb0b449e5f2ea","x":0,"y":-200,"width":380,"height":140,"type":"text","text":"# Sistema de vigilancia con rastreo de información para armar perfiles de personas"},
-		{"id":"a6246f01f0a6e114","x":-420,"y":-200,"width":380,"height":160,"color":"5","type":"text","text":"# Hacer páginas para vender como freelancers\n\nTecnologías\nIa para componentes para interfaz dinámica"},
-		{"id":"5eaead526ac31d38","x":-420,"y":-20,"width":380,"height":160,"color":"5","type":"text","text":"# Sistema web interfaz para dms de calabozos y dragones"},
-		{"id":"5d62ff2d1456a8d3","x":-420,"y":180,"width":380,"height":900,"color":"4","type":"text","text":"# App para ventas de pequeños negocios con interfaz basada en gestos como los de tik tok o insta\n### Tecnologías para desarrollo\n#frontend\nStitch\nFlutter o React Native o Vue\nLibrería de pdfs\n#backend\nFastAPI\nSQLAlchemy\nMySQL\nSQLite\n==Librería o algo así para pruebas automatizadas==\nMedidas de seguridad acorde a lineamientos de PlayStore\n\nRepo en github\n### Despliegue\n- Vercel\n- Docker\n- Apache\n- Nginx\n- SSL/TLS\n\n# Metodología XP\nProgramación en pares\nTest Driven Development (TDD)"},
-		{"id":"9275457794ba6743","x":0,"y":70,"width":380,"height":80,"type":"text","text":"# Juego pixelart plataformero 2D"},
-		{"id":"6fa556dee233cecd","x":0,"y":-30,"width":380,"height":80,"type":"text","text":"# Juego con círculos mágicos y con cámara"},
-		{"id":"773153ff07490a10","x":0,"y":180,"width":380,"height":120,"type":"text","text":"# Automatización de tareas manuales con brazos mecánicos baratos"},
-		{"id":"3096816863e6d56f","x":0,"y":330,"width":380,"height":100,"type":"text","text":"# Jarvis asistente para negocios o personal"},
-		{"id":"ca59cf04a056e604","x":0,"y":480,"width":380,"height":260,"type":"text","text":"Libro del jabalí\nCosas de seguridad para aplicaciones web\n¿Cómo hacer que la app funcione sin internet?\nTeorema PACELC"}
+		{"id":"074eb0b449e5f2ea","type":"text","text":"# Sistema de vigilancia con rastreo de información para armar perfiles de personas","x":0,"y":-200,"width":380,"height":140},
+		{"id":"a6246f01f0a6e114","type":"text","text":"# Hacer páginas para vender como freelancers\n\nTecnologías\nIa para componentes para interfaz dinámica","x":-420,"y":-200,"width":380,"height":160,"color":"5"},
+		{"id":"5eaead526ac31d38","type":"text","text":"# Sistema web interfaz para dms de calabozos y dragones","x":-420,"y":-20,"width":380,"height":160,"color":"5"},
+		{"id":"5d62ff2d1456a8d3","type":"text","text":"# App para ventas de pequeños negocios con interfaz basada en gestos como los de tik tok o insta\n### Tecnologías para desarrollo\n#frontend\nStitch\nFlutter o React Native o Vue\nLibrería de pdfs\n\n#backend\nFastAPI\n\n#base_de_datos\nSQLAlchemy\nMySQL\nSQLite\n\n#testing\nBackend -> Hypothesis \n\nMedidas de seguridad acorde a lineamientos de PlayStore\n\nRepo en github\n### Despliegue\n- Vercel\n- Docker\n- Apache\n- Nginx\n- SSL/TLS\n\n# Metodología XP\nProgramación en pares\nTest Driven Development (TDD)","x":-420,"y":180,"width":380,"height":980,"color":"4"},
+		{"id":"9275457794ba6743","type":"text","text":"# Juego pixelart plataformero 2D","x":0,"y":70,"width":380,"height":80},
+		{"id":"6fa556dee233cecd","type":"text","text":"# Juego con círculos mágicos y con cámara","x":0,"y":-30,"width":380,"height":80},
+		{"id":"773153ff07490a10","type":"text","text":"# Automatización de tareas manuales con brazos mecánicos baratos","x":0,"y":180,"width":380,"height":120},
+		{"id":"3096816863e6d56f","type":"text","text":"# Jarvis asistente para negocios o personal","x":0,"y":330,"width":380,"height":100},
+		{"id":"ca59cf04a056e604","type":"text","text":"Libro del jabalí\nCosas de seguridad para aplicaciones web\n¿Cómo hacer que la app funcione sin internet?\nTeorema PACELC","x":0,"y":480,"width":380,"height":260}
 	],
 	"edges":[]
 }
